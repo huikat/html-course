@@ -1,0 +1,22 @@
+div{
+  width: 400px;
+  height: 400px;
+  border: 1px solid red;
+  border-radius: 50px;
+}
+
+img {
+  border: 10px dashed;
+}
+
+.dogone{
+  border: 10px red;
+}
+
+.dogtwo{
+  border: 10px dotted;
+}
+
+.dogthree {
+  border: 10px double;
+}
